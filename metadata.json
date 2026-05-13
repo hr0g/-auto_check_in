@@ -1,0 +1,8 @@
+{
+  "name": "iMock Control Center",
+  "description": "Web dashboard for managing Android mock locations, screen recording macros, and automated task scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
